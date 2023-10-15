@@ -1,3 +1,6 @@
+layout: page
+title: "certifications"
+permalink: https://yellowbrick01.github.io/certifications
 # Awards & Certifications
 ## Zendesk: Explore / analytics - Issued 09/23
 <img width="270" alt="explore-analytics" src="https://github.com/yellowBrick01/yellowBrick01.github.io/assets/76761559/80158a6b-cdde-41d6-a414-330aec3f0982">
